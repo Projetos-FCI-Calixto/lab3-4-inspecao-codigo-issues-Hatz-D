@@ -24,10 +24,7 @@
 
 ## Integrantes do Grupo
 
-- Nome 1 — RA:  
-- Nome 2 — RA:  
-- Nome 3 — RA:  
-- Nome 4 — RA:  
+- Nome 1 — RA: Diogo Lourenzon Hatz - 10402406 
 
 ---
 
